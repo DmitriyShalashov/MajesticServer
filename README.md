@@ -1,0 +1,2 @@
+# MajesticServer
+Game Server
